@@ -1,0 +1,68 @@
+.maintext,
+.addtext {
+ color: dimgray;
+}
+
+.river {
+ color: blue;
+}
+
+.important {
+ color: red;
+}
+
+.goldtitle {
+ color: gold;
+}
+
+.shittext {
+ color: peru;
+}
+
+div.list~p {
+ color: gray;
+}
+
+.name span,
+.symbol span,
+.monuments span,
+.brothers span,
+.panoramas span {
+ color: black;
+}
+
+span.name {
+ color: brown;
+}
+
+.maintext h2 {
+ color: rgb(16, 16, 16);
+}
+
+span.important {
+ color: red;
+}
+
+span.shittext {
+ color: peru;
+}
+
+span.river {
+ color: blue;
+}
+
+span.goldtitle {
+ color: gold;
+}
+
+.addtext.footer {
+ color: black;
+}
+
+.maintext.panoramas+p {
+ color: gray;
+}
+
+.linktolist {
+ color: rgb(16, 16, 16);
+}
